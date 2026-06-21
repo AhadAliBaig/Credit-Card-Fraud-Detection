@@ -2,7 +2,7 @@
 
 This project detects fraudulent credit card transactions using machine learning. The dataset is highly imbalanced, with only **492 fraud cases out of 284,807 transactions**, which makes the problem challenging.
 
-I compared two models:
+This project compares two models:
 - **Logistic Regression (LR)**
 - **Neural Network (MLP)**  
 
